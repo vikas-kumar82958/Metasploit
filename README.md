@@ -14,7 +14,7 @@ Now open your termux app and copy and paste thease commands in your temux app.<b
 4. ls <br>
 5. git clone https://github.com/vikas-kumar82958/Metasploit.git<br>
 6. ls<br>
-7. cd metasploit <br>
+7. cd Metasploit <br>
 8. ls<br>
 9. chmod +x installation.sh <br>
 10. ls <br>
