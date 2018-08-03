@@ -2,6 +2,7 @@
 # Hello Everyone...
 <b><i>This is a Hacking Environmental for Android users Which are interesting in Hacking field.<br>
 I hope my code will help you for making a good hacking Environmental.
+# WARNING:-Befor installation You should have atleast 2GB internal storage.<br>
 # NOTE:-
 First you will just need some commands which are first install termux app link is below type on this link.<br>
 This link will install termux app which is foundation of Hacking Environmental.<br>
@@ -20,4 +21,11 @@ Now open your termux app and copy and paste thease commands in your temux app.<b
 10. ls <br>
 11. bash installation.sh <br>
 Now it will install Hacking Enviromental for you it will take some time please Don't panic :)<br>
+After installation completed you should give thease commands.<br>
+14. cd $HOME<br>
+15. ls<br>
+16. cd metasploit-framework <br>
+17. ls<br>
+18. ./msfconsole<br>
+Now metasploit-framework is starting Enjoy :)<br>
 If you will face any problems about installation please comment.<br></b></i>
