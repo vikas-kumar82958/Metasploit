@@ -2,7 +2,7 @@
 # Hello Everyone...
 <b><i>This is a Hacking Environmental for Android users Which are interesting in Hacking field.<br>
 I hope my code will help you for making a good hacking Environmental.
-# WARNING:-Befor installation You should have atleast 2GB internal storage.<br>
+# WARNING:-Befor installation You should have atleast 2GB Empty(free) space in internal storage.<br>
 # NOTE:-
 First you will just need some commands which are first install termux app link is below type on this link.<br>
 This link will install termux app which is foundation of Hacking Environmental.<br>
