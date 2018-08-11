@@ -16,6 +16,6 @@ Now open your termux app and copy and paste thease commands in your temux app.<b
 5. ls<br>
 6. cd Metasploit <br>
 7. ls<br>
-11. bash installation.sh <br>
+8. bash installation.sh <br>
 Now it will install Hacking Enviromental for you it will take some time please Don't panic :)<br>
 If you will face any problems about installation please comment.<br></b></i>
