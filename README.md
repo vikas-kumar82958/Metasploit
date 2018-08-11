@@ -12,13 +12,10 @@ Now open your termux app and copy and paste thease commands in your temux app.<b
 <b><i>1. https://play.google.com/store/search?q=termux<br>
 2. apt-get update && apt-get upgrade -y <br>
 3. pkg install git bash -y <br>
-4. ls <br>
-5. git clone https://github.com/vikas-kumar82958/Metasploit.git<br>
-6. ls<br>
-7. cd Metasploit <br>
-8. ls<br>
-9. chmod +x installation.sh <br>
-10. ls <br>
+4. git clone https://github.com/vikas-kumar82958/Metasploit.git<br>
+5. ls<br>
+6. cd Metasploit <br>
+7. ls<br>
 11. bash installation.sh <br>
 Now it will install Hacking Enviromental for you it will take some time please Don't panic :)<br>
 If you will face any problems about installation please comment.<br></b></i>
