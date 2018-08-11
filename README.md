@@ -21,11 +21,4 @@ Now open your termux app and copy and paste thease commands in your temux app.<b
 10. ls <br>
 11. bash installation.sh <br>
 Now it will install Hacking Enviromental for you it will take some time please Don't panic :)<br>
-After installation completed you should give thease commands.<br>
-14. cd $HOME<br>
-15. ls<br>
-16. cd metasploit-framework <br>
-17. ls<br>
-18. ./msfconsole<br>
-Now metasploit-framework is starting Enjoy :)<br>
 If you will face any problems about installation please comment.<br></b></i>
